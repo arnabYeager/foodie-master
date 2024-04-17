@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
   <h2 align="center">Foodie - Fast food website</h2>
 
