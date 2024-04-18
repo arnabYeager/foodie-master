@@ -4,6 +4,8 @@
 
   Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
+  <a href="https://arnabyeager.github.io/foodie_E-commerce-site/"><strong>➥ Live Demo</strong></a>
+
 </div>
 
 <br />
